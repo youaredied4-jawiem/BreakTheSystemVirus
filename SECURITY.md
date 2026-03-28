@@ -1,7 +1,7 @@
 # Security Policy
 
 ## Dual-Use Research Disclosure
-This repository contains a compiled Windows Wiper (.exe) and its PowerShell source code. This content is provided strictly for **Security Research and Educational Purposes** as part of the MarekOS 10 project.
+This repository contains a compiled Windows Wiper (.exe) and its PowerShell source code. This content is provided strictly for **Security Research and Educational Purposes** as part of the BreakTheSystem project.
 
 ## ⚠️ WARNING
 The files in this repository are designed to be destructive to the Windows Operating System (`C:\Windows`). 
